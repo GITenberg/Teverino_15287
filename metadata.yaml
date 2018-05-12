@@ -1,0 +1,32 @@
+_repo: Teverino_15287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Armandine Aurore Lucille
+    - Dupin, Amandine-Aurore-Lucile
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15287'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Teverino
+url: http://www.gutenberg.org/ebooks/15287
